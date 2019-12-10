@@ -1,0 +1,7 @@
+*.cmd       text    eol=crlf
+
+*.smali     text    eol=crlf
+
+*.smali.bak text    eol=crlf
+
+README.md           eol=crlf
